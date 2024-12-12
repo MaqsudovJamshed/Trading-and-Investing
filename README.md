@@ -14,7 +14,7 @@ Analyzed the relationship between Bitcoin and six stock market indexes to unders
 
 
       ## Context
-
+In this project 
 
 
 
