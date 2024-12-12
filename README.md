@@ -14,9 +14,8 @@ Analyzed the relationship between Bitcoin and six stock market indexes to unders
 
 
       ## Context
-In this project 
 
-
+In this project, we are a consulting company specializing in cryptocurrency, with a particular focus on **Bitcoin**. We analyze stock and futures markets to uncover the potential of investing in Bitcoin and build strategies based on these insights. Ultimately, we advise investors on the optimal times and strategies for buying and selling Bitcoin.
 
 
 
