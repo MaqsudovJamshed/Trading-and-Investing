@@ -1,4 +1,4 @@
-# Trading-and-Investing Project
+# Trading and Investing Project: Bitcoin
 Analyzed the relationship between Bitcoin and six stock market indexes to understand their financial dynamics
 
 # Content
