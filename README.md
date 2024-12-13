@@ -18,9 +18,6 @@ Analyzed the relationship between Bitcoin and six stock market indices to better
 
 In this project, we are a consulting company specializing in cryptocurrency, with a particular focus on **Bitcoin**. We analyze stock and futures markets to uncover the potential of investing in Bitcoin and build strategies based on these insights. Ultimately, we advise investors on the optimal times and strategies for buying and selling Bitcoin.
 
-## dataset
-
-
 ## Data Source
 
 The dataset used for this project was obtained from [TradingView](https://www.tradingview.com/), a platform for analyzing financial markets and tracking real-time data.
@@ -37,6 +34,36 @@ Studying and discussing Bitcoin is crucial because it represents a revolutionary
 
 
 ## Bitcoin vs Traditional Assets
+      In this part of the project, demonstrating the potential of investing in Bitcoin required a comparison with traditional assets like the S&P 500 and Gold. Particularly comaring the returns, risks and general trends. 
+      
+<img width="1046" alt="Screenshot 2024-12-13 at 19 04 04" src="https://github.com/user-attachments/assets/0086cb6f-dcd0-471e-b76a-99e20a49d04b" />
+
+       This graph here clearly shows the following things :
+      
+       1. S&P 500 Stability: The red line (S&P 500 returns) shows consistent, low-volatility monthly returns, indicating steady performance over time.
+
+       2. Bitcoin Volatility: The blue line (Bitcoin returns) demonstrates sharp and frequent fluctuations, highlighting its significantly higher volatility compared to the S&P 500.
+
+       
+<img width="1053" alt="Screenshot 2024-12-13 at 19 08 49" src="https://github.com/user-attachments/assets/5c3ef80d-2ea2-4f78-a792-c9f25f5b7c98" />
+
+
+This graph displays the cumulative value of Bitcoin, the S&P 500, and Gold, providing the following insights:
+
+1. Bitcoin Dominance: Bitcoin shows the highest cumulative returns, significantly outperforming other assets.
+2. Volatility Differences: Crude Oil had volatile early movements, recovering modestly.
+3. Steady Performers: S&P 500 and Gold maintained relatively stable and moderate returns.
+4. Diversification Insight: Bitcoin offers high growth but comes with higher volatility compared to traditional assets.
+
+
+
+
+<img width="786" alt="Screenshot 2024-12-13 at 19 12 11" src="https://github.com/user-attachments/assets/4af77223-e7ce-4b92-83e7-6dcee16ccd07" />
+
+
+
+
+
 
 
 
