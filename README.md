@@ -20,13 +20,14 @@ In this project, we are a consulting company specializing in cryptocurrency, wit
 
 ## dataset
 
+
 ## Data Source
 
 The dataset used for this project was obtained from [TradingView](https://www.tradingview.com/), a platform for analyzing financial markets and tracking real-time data.
 
 
 ## Understanding Bitcoin: Why It Matters?
-
+<img width="1057" alt="Screenshot 2024-12-13 at 19 00 31" src="https://github.com/user-attachments/assets/249f3fd0-6e9b-463a-86d5-9e5cc4a6009b" />
 Bitcoin is a decentralized digital currency and asset that operates on a network of nodes, leveraging cryptography to secure transactions and enable trustless exchanges in a 
 free market environment. There is a lot to unpack, and while we’re only touching on certain aspects, it is crucial to understand why it’s important to know and discuss Bitcoin. 
 Studying and discussing Bitcoin is crucial because it represents a revolutionary shift in the financial system, offering an alternative to traditional currencies and banking systems. Understanding Bitcoin helps investors, policymakers, and individuals navigate its potential as a store of value, its volatility, and its impact on global economics and digital innovation.
