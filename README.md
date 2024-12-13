@@ -71,12 +71,18 @@ This graph displays the cumulative value of Bitcoin, the S&P 500, and Gold, prov
 
 
 
-S&P 500 and Bitcoin using 1-year Moving average
+# 1.1 Bitcoin correlation with S&P 500
+
+<img width="611" alt="Screenshot 2024-12-13 at 19 59 04" src="https://github.com/user-attachments/assets/77cc842a-2ce9-4b32-a1ac-deebed3c80b1" />
+
+# Bitcoin correlation with S&P 500
+
+<img width="617" alt="Screenshot 2024-12-13 at 20 00 28" src="https://github.com/user-attachments/assets/3c4f3656-2dec-4cb3-b24a-ffa0982a596c" />
 
 
+## 1.2 Bitcoin Indicators of Market Sentiment: Funding Rate, Long/Short Ratio
 
 
-## Bitcoin Indicators of Market Sentiment: Funding Rate, Long/Short Ratio
 
 
 
