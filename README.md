@@ -35,16 +35,21 @@ Studying and discussing Bitcoin is crucial because it represents a revolutionary
 
 ## Bitcoin vs Traditional Assets
 
+In this part of the project, demonstrating the potential of investing in Bitcoin required a comparison with traditional assets like the S&P 500 and Gold. Particularly comparing the returns, risks and general trends.
 
-      In this part of the project, demonstrating the potential of investing in Bitcoin required a comparison with traditional assets like the S&P 500 and Gold. Particularly comparing the returns, risks and general trends. 
-    
+<img width="303" alt="Screenshot 2024-12-13 at 19 52 06" src="https://github.com/user-attachments/assets/ffc982b9-1bd6-4dad-9a14-c551e4d98812" />
 
 
-This graph here clearly shows the following things :
+
+This graph below clearly shows the following things :
       
 1. S&P 500 Stability: The red line (S&P 500 returns) shows consistent, low-volatility monthly returns, indicating steady performance over time.
 
 2. Bitcoin Volatility: The blue line (Bitcoin returns) demonstrates sharp and frequent fluctuations, highlighting its significantly higher volatility compared to the S&P 500
+<img width="648" alt="Screenshot 2024-12-13 at 19 54 42" src="https://github.com/user-attachments/assets/20481b98-3fad-4bc8-8383-e3cb1ccca8c2" />
+
+
+
 
 
 
@@ -55,9 +60,12 @@ This graph displays the cumulative value of Bitcoin, the S&P 500, and Gold, prov
 3. Steady Performers: S&P 500 and Gold maintained relatively stable and moderate returns.
 4. Diversification Insight: Bitcoin offers high growth but comes with higher volatility compared to traditional assets.
 
+      # S&P 500 and Bitcoin using a 1-year Moving average
+
+<img width="648" alt="Screenshot 2024-12-13 at 19 56 04" src="https://github.com/user-attachments/assets/63870ba2-c2e2-49de-96e8-854a8610e071" />
 
 
-S&P 500 and Bitcoin using a 1-year Moving average
+
 
 
 
