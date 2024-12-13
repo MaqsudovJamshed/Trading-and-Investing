@@ -38,11 +38,8 @@ Studying and discussing Bitcoin is crucial because it represents a revolutionary
 
       In this part of the project, demonstrating the potential of investing in Bitcoin required a comparison with traditional assets like the S&P 500 and Gold. Particularly comparing the returns, risks and general trends. 
     
-<img width="1046" alt="Screenshot 2024-12-13 at 19 04 04" src="https://github.com/user-attachments/assets/0086cb6f-dcd0-471e-b76a-99e20a49d04b" />
 
 
-       
-<img width="1053" alt="Screenshot 2024-12-13 at 19 08 49" src="https://github.com/user-attachments/assets/5c3ef80d-2ea2-4f78-a792-c9f25f5b7c98" />
 This graph here clearly shows the following things :
       
 1. S&P 500 Stability: The red line (S&P 500 returns) shows consistent, low-volatility monthly returns, indicating steady performance over time.
@@ -50,8 +47,6 @@ This graph here clearly shows the following things :
 2. Bitcoin Volatility: The blue line (Bitcoin returns) demonstrates sharp and frequent fluctuations, highlighting its significantly higher volatility compared to the S&P 500
 
 
-
-<img width="786" alt="Screenshot 2024-12-13 at 19 12 11" src="https://github.com/user-attachments/assets/4af77223-e7ce-4b92-83e7-6dcee16ccd07" />
 
 This graph displays the cumulative value of Bitcoin, the S&P 500, and Gold, providing the following insights:
 
@@ -65,12 +60,12 @@ This graph displays the cumulative value of Bitcoin, the S&P 500, and Gold, prov
 S&P 500 and Bitcoin using a 1-year Moving average
 
 
-<img width="619" alt="Screenshot 2024-12-13 at 19 46 23" src="https://github.com/user-attachments/assets/5c1e17f8-421c-4c0a-acdc-a514631d197a" />
+
 
 
 S&P 500 and Bitcoin using 1-year Moving average
 
-<img width="619" alt="Screenshot 2024-12-13 at 19 47 17" src="https://github.com/user-attachments/assets/4c74c232-83d2-401e-a8c8-98c3c98b49f4" />
+
 
 
 ## Bitcoin Indicators of Market Sentiment: Funding Rate, Long/Short Ratio
