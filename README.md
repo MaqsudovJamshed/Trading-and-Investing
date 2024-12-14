@@ -15,14 +15,31 @@ The dataset used for this project was obtained from [TradingView](https://www.tr
 
 To analyze the data the following variables have been used : 
 
-1. [Bitcoin](https://drive.google.com/drive/folders/1uFE6X1sinKdEJQ_UISaEP43seNUOJHjc)
-2. S&P 500
-3. Gold
-4. Oil
-5. DXY
-6. DW Jones
+1. [Bitcoin](https://raw.githubusercontent.com/MaqsudovJamshed/Trading-and-Investing/refs/heads/main/merged_all_clean_org%20.csv)
+2. [S&P 500](https://raw.githubusercontent.com/MaqsudovJamshed/Trading-and-Investing/refs/heads/main/merged_all_clean_org%20.csv)
+3. [Gold](https://raw.githubusercontent.com/MaqsudovJamshed/Trading-and-Investing/refs/heads/main/merged_all_clean_org%20.csv)
+4. [Oil](https://raw.githubusercontent.com/MaqsudovJamshed/Trading-and-Investing/refs/heads/main/merged_all_clean_org%20.csv)
+5. [DXY](https://raw.githubusercontent.com/MaqsudovJamshed/Trading-and-Investing/refs/heads/main/merged_all_clean_org%20.csv)
+6. [DW Jones](https://raw.githubusercontent.com/MaqsudovJamshed/Trading-and-Investing/refs/heads/main/merged_all_clean_org%20.csv)
+7. [Nasdaq](https://raw.githubusercontent.com/MaqsudovJamshed/Trading-and-Investing/refs/heads/main/merged_all_clean_org%20.csv)
 
 ## Result and Data Visualization
 
+[The result of the project is displayed in the foloowiing google slide](https://docs.google.com/presentation/d/1yghTryfvCLupwE1wrp_b2u2iOcf0FJM3oinI_82x-SE/edit#slide=id.g31bf51d807f_0_32)
+
 ## Key Takeaways
+
+•	**Impact of Inflation on Stock Prices**: Inflation affects stock prices by influencing company costs, profit margins, and investor sentiment, often leading to market volatility.
+
+•	**High Correlation Between Markets:** Traditional markets, such as stocks, tend to move in sync, especially during periods of economic uncertainty, highlighting the interconnectedness of global financial systems.
+
+ 
+•	**Bitcoin’s Superior Returns:** Bitcoin has demonstrated higher returns compared to traditional assets during periods of market correlation, making it an attractive alternative investment option.
+
+ 
+•	**Market Sentiment as a Key Indicator:** Understanding market sentiment provides valuable insights into investor behavior and future market movements, which can help inform trading decisions.
+
+ 
+•	**Risk-Reward Balancing Strategy:** A well-structured investment strategy aims to balance potential returns with manageable risk exposure, ensuring sustainable growth while mitigating potential losses.
+
 
