@@ -25,7 +25,7 @@ To analyze the data the following variables have been used :
 
 ## Result and Data Visualization
 
-[The result of the project is displayed in the foloowiing google slide](https://docs.google.com/presentation/d/1yghTryfvCLupwE1wrp_b2u2iOcf0FJM3oinI_82x-SE/edit#slide=id.g31bf51d807f_0_32)
+[The result of the project is displayed in the following google slide](https://docs.google.com/presentation/d/1yghTryfvCLupwE1wrp_b2u2iOcf0FJM3oinI_82x-SE/edit#slide=id.g31bf51d807f_0_32)
 
 ## Key Takeaways
 
