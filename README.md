@@ -1,8 +1,6 @@
 # Trading and Investing Project: Bitcoin
 Analyzed the relationship between Bitcoin and six stock market indices to better understand their financial dynamics.
 
-
-
 ## Context
 This project was part of the last 2 weeks of our bootcamp. 
 
